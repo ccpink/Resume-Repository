@@ -1,0 +1,190 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Tutorial 3
+   Case Problem 4
+
+   Park City Gazette Style Sheet
+   Author: Charles Pink
+   Date:  10/23/2019
+
+   Filename:         pcg_paper.css
+   Supporting Files: 
+
+*/
+
+
+body {
+    background-color:rgb(229, 164, 255, 0.5);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+
+}
+
+html {
+    background-color: rgb(60, 1, 83);
+}
+
+
+header > nav {
+	display: table;
+	width: 100%;
+}
+
+
+body {
+	margin: 0%;
+	width: 100%;
+}
+
+
+.Logo {
+    width: 100%;
+}
+
+.Blake {
+    border: 3px solid rgb(0, 0, 0);
+    vertical-align: middle;
+}
+
+footer {
+	clear: both;
+}
+
+
+.links1 {
+    list-style-type: none;
+    display: table-row;
+    list-style-type: none;
+    width: 100%;
+    text-align: center;
+}
+
+
+.links2 {
+	display: table-row;
+    list-style-type: none;
+
+    width: 100%;
+    text-align: center;
+
+}
+
+header > nav > ul > li {
+	display: table-cell;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+header > nav a {
+	display: block;
+	width: 100%;
+}
+
+h1 {
+    word-wrap: break-word;
+    text-align: center;
+    background-color: silver;
+    font-size: 5vw;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.article1 {
+    clear: initial;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 1em;
+    float: left;
+    background-color: lightseagreen;
+    overflow: auto;
+    position: relative;
+    top: 1px;
+    right: -16px;
+    width: 45%;
+    height: 500px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.article2 {
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 1em;
+    float: left;
+    background-color: rgb(29, 78, 100);
+    overflow: auto;
+    position: relative;
+    top: 1px;
+    right: -18px;
+    width: 45%;
+    height: 500px;
+    border: 3px solid rgb(0, 0, 0);
+      
+}
+
+.article3 {
+    clear: both;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 1em;
+    float: left;
+    background-color: rgb(29, 78, 100);
+    overflow: auto;
+    position: relative;
+    top: 1px;
+    right: -18px;
+    width: 45%;
+    height: 500px;
+    border: 3px solid rgb(0, 0, 0);
+
+}
+
+.article4{
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 1em;
+    float: left;
+    background-color: lightseagreen;
+    overflow: auto;
+    position: relative;
+    top: 1px;
+    right: -18px;
+    width: 45%;
+    height: 500px;
+    border: 3px solid rgb(0, 0, 0);
+
+}
+
+footer {
+    background-color: lightsteelblue;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.link {
+    color: white;
+    text-decoration-line: none;
+    letter-spacing: 0.001em;
+
+}
+
+.Upper {
+    background-color: rgb(41, 41, 41);
+}
+.Upper {
+    background-color: rgb(41, 41, 41);
+}
+
+.Below {
+    background-color: black;
+}
+
+.paragraphs {
+    word-wrap: break-word;
+}
