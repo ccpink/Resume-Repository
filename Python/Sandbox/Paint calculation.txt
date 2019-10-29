@@ -1,0 +1,9 @@
+Y1 = 7
+Y2 = 7
+X1 = 10
+X2 = 20
+Dimensions1 = X1*Y1
+Dimensions2 = X2*Y2
+
+print("Dimensions1)
+print("Dimensions2)
