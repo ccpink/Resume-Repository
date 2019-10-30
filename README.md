@@ -1,11 +1,11 @@
    
 
                                  Charles Pink         
-         68 Guysborough Ave Dartmouth, • NS B2W 1S7 • E-Mail: ccpink911@gmail.com 
-                            # Resume-Repository
-                   This repository is used to store code from 
-                   previous projects and work that I have done
-                   as well as my work experience.
+         68 Guysborough Ave Dartmouth, NS B2W 1S7 • E-Mail: ccpink911@gmail.com 
+                              Resume-Repository
+                      This repository is used to store code from 
+                     previous projects and work that I have done
+                         as well as my work experience.
       
 
    Skills 
