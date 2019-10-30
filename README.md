@@ -1,20 +1,15 @@
    
 
-                                                  •Charles Pink                    
-                                               •# Resume-Repository
-                   •This repository is used to store code from previous projects and work that I have done
-                                          •as well as my work experience.
+                                 Charles Pink                    
+                            # Resume-Repository
+                   This repository is used to store code from 
+                   previous projects and work that I have done
+                   as well as my work experience.
  
 
-                          •68 Guysborough Ave Dartmouth, • NS B2W 1S7 • E-Mail: ccpink911@gmail.com 
+     68 Guysborough Ave Dartmouth, • NS B2W 1S7 • E-Mail: ccpink911@gmail.com 
 
- 
-
-                                   
-
-                                                                                                                                                                 
-
-                                                    Skills 
+                                     Skills 
 
 • I can design interfaces.                                   • I can use multiple programming languages. 
 
@@ -26,10 +21,14 @@
 
      •Work Experience 
 
-     •I worked as a tech assistant for BlogJam on October 2019, 19th  to October 2019, 20th  BlogJam Dartmouth, 
-     NS I made sure their software was running effectively and people knew how to use it ahead of time before their presentation, 
-     I was told by the co-heads of the organization I was more effective than previous years volunteers and that 
-     I had done an amazing job during the event. I was effectively able to save them 500.00$ in being easily available and 
+     I worked as a tech assistant for BlogJam on October 2019, 19th  
+     to October 2019, 20th  BlogJam Dartmouth, NS I made sure 
+     their software was running effectively and people knew how to 
+     use it ahead of time before their presentation, 
+     I was told by the co-heads of the organization I was more 
+     effective than previous years volunteers and that 
+     I had done an amazing job during the event. I was effectively able 
+     to save them 500.00$ in being easily available and 
      quick to pick up information.  
 
  
