@@ -32,11 +32,15 @@
      quick to pick up information.  
 
  
+   Samples of Work
+   Database Work. https://github.com/ccpink/Resume-Repository/tree/master/Database%20Work
+   CSS and HTML Work https://github.com/ccpink/Resume-Repository/tree/master/HTML%20AND%20CSS%20EXAMPLES
+   Work in Python https://github.com/ccpink/Resume-Repository/tree/master/Python
+   Work in Windows Administration https://github.com/ccpink/Resume-Repository/tree/master/Windows%20Admin%20Work%20(1)
 
-                                                                                                                                                                 
 
-NSCC institute of Technoology                                                                                                      2021  
 
+NSCC institute of Technoology                                                  2021                 
 Information Technology Programming 
 
  
