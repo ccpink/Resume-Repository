@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/assRepoCPP-master/Entity.h
+
+F:/assRepoCPP-master/Human.h
+vector
+F:/assRepoCPP-master/vector
+Entity.h
+F:/assRepoCPP-master/Entity.h
+
+F:/assRepoCPP-master/Zombie.h
+Entity.h
+F:/assRepoCPP-master/Entity.h
+
+F:/assRepoCPP-master/main.cpp
+iostream
+-
+random
+-
+ctime
+-
+Human.h
+F:/assRepoCPP-master/Human.h
+Zombie.h
+F:/assRepoCPP-master/Zombie.h
+vector
+F:/assRepoCPP-master/vector
+windows.h
+-
+

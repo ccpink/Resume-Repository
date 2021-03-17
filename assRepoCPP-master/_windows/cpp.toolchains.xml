@@ -1,0 +1,9 @@
+<application>
+  <component name="CPPToolchains" version="4">
+    <toolchains detectedVersion="5">
+      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\MinGW" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\ccpin\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\usr\bin\cmake" hostId="6f486018-0c80-4b87-a343-8b0a86a322cd" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="WSL (1)" toolSetKind="WSL" toolSetPath="C:\Users\ccpin\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\usr\bin\cmake" hostId="15a560c1-c7e5-4e12-8fb6-750c8cfa3365" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+    </toolchains>
+  </component>
+</application>

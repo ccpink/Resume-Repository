@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ZombiesVSHumans.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ZombiesVSHumans.dir/objects.a @CMakeFiles\ZombiesVSHumans.dir\objects1.rsp
+C:\MinGW\bin\g++.exe --coverage -g   -Wl,--whole-archive CMakeFiles\ZombiesVSHumans.dir/objects.a -Wl,--no-whole-archive  -o ZombiesVSHumans.exe -Wl,--out-implib,libZombiesVSHumans.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ZombiesVSHumans.dir\linklibs.rsp
